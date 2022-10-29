@@ -2,8 +2,13 @@
   <img src="https://raw.githubusercontent.com/SonsOfPHP/.github/main/assets/top-rocker.png" />
 </div>
 
-<!--
+---
 
+Chat with us at https://discord.gg/sdVxNhFqND
+
+Documentation can be found at https://docs.sonsofphp.com/
+
+<!--
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
