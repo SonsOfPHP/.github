@@ -4,8 +4,6 @@
 
 ---
 
-Chat with us at https://discord.gg/sdVxNhFqND
-
 Documentation can be found at https://docs.sonsofphp.com/
 
 <!--
