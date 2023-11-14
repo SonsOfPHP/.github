@@ -4,14 +4,14 @@
 
 ---
 
-Documentation can be found at https://docs.sonsofphp.com/
+## About Sons of PHP
 
-<!--
-**Here are some ideas to get you started:**
+Sons of PHP is all about creating various PHP packages that can be used as standalone components or can be used within various frameworks. This project also contains [Contracts](https://docs.sonsofphp.com/contracts/) to help make sure [Components](https://docs.sonsofphp.com/components/) can be easily swaped out.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+* All development is done in the "[Mother Repo](https://github.com/SonsOfPHP/sonsofphp)". All issues and pull requests should be done here.
+* Documentation can be found at [docs.sonsofphp.com](https://docs.sonsofphp.com)
+* Help and support is offered on using [GitHub Discussions](https://github.com/orgs/SonsOfPHP/discussions)
+
+## Learning Sons of PHP Components
+
+We do our best to ensure [documentation](https://docs.sonsofphp.com) is always up to date. We also have a lot of great documentation in the source code itself. Whenever possible, we use [Contracts](https://docs.sonsofphp.com/contracts/) so that components can be easily replaced.
