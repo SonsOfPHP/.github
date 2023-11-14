@@ -15,3 +15,7 @@ Sons of PHP is all about creating various PHP packages that can be used as stand
 ## Learning Sons of PHP Components
 
 We do our best to ensure [documentation](https://docs.sonsofphp.com) is always up to date. We also have a lot of great documentation in the source code itself. Whenever possible, we use [Contracts](https://docs.sonsofphp.com/contracts/) so that components can be easily replaced.
+
+## Contribute
+
+Always on the lookup for more members to help maintain and create new components. Please read the [Contributing Guide](https://docs.sonsofphp.com/contributing/) to learn more.
